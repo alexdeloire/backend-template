@@ -54,7 +54,7 @@ This is a highly secure backend template for a web application. It is designed t
 Python 3.10.12 was used for this project.
 PostgreSQL 16.1 was used for this project.
 
-You can use this backend with this [frontend](https://github.com/alexdeloire/frontend-template).
+You can use this backend with this [frontend](https://github.com/alexdeloire/frontend_template).
 
 ## Database Setup
 <sup>[(Back to top)](#table-of-contents)</sup>
