@@ -55,7 +55,7 @@ Ce modèle de backend est conçu pour être utilisé comme point de départ pour
 Python 3.10.12 a été utilisé pour ce projet.
 PostgreSQL 16.1 a été utilisé pour ce projet.
 
-Vous pouvez utiliser ce backend avec ce [frontend](https://github.com/alexdeloire/frontend_template).
+Vous pouvez utiliser ce backend avec ce [frontend](https://github.com/alexdeloire/frontend-template).
 
 ## Setup de la base de données
 <sup>[(Retour en haut)](#table-des-matières)</sup>
